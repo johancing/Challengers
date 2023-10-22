@@ -1,0 +1,6 @@
+Challenger/target/classes/com/jcastro/challenger/ChallengerApp.class
+Challenger/target/classes/com/jcastro/challenger/cases/IUseCase.class
+Challenger/target/classes/com/jcastro/challenger/cases/impl/DefaultCase.class
+Challenger/target/classes/com/jcastro/challenger/cases/impl/MeliChallenger.class
+Challenger/target/classes/com/jcastro/challenger/cases/impl/WordsCounter.class
+Challenger/target/test-classes/com/jcastro/challenger/cases/impl/MeliChallengerTest.class
